@@ -1,4 +1,4 @@
-# reunion
+
 # Objective
 The primary goal was to implement key features like sorting, filtering, grouping, and pagination, using open-source libraries Tanstack React Table.
 ## 1. Pagination
